@@ -8,6 +8,10 @@
 - <b>C# (.NET Desktop Applications)</b>
   - [System designed for journalists on the Qatar worldcup 2023. Created with a partner for college project.](https://github.com/joshmadakor1/EncrypterPOC)
   
+  
+<h2>📚 Currently learning:</h2>
+    - <b>Python</b>
+  
 
 <h2> 🤳 Connect with me:</h2>
 
