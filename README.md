@@ -8,9 +8,11 @@
 - <b>C# (.NET Desktop Applications)</b>
   - [System designed for journalists on the Qatar worldcup 2023. Created with a partner for college project.](https://github.com/joshmadakor1/EncrypterPOC)
   
+- <b>Flutter</b>
+  - [My first flutter app. Word generator with favorites page.](https://github.com/joshmadakor1/EncrypterPOC)
   
 <h2>📚 Currently learning:</h2>
-    - <b>Python</b>
+    - <b>Flutter</b>
   
 
 <h2> 🤳 Connect with me:</h2>
