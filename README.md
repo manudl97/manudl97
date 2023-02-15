@@ -3,7 +3,7 @@
 <h2>👨‍💻 Programming Projects:</h2>
 
 - <b>Javascript</b>
-  - [Booking App for Restaurants/Museums/Theatres,etc. Created with a partner for college project.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Booking App for Restaurants/Museums/Theatres,etc. Created with a partner for college project.]
   
 - <b>C# (.NET Desktop Applications)</b>
   - [System designed for journalists on the Qatar worldcup 2023. Created with a partner for college project.](https://github.com/manudl97/QatarWorldcupJournalistSystem)
