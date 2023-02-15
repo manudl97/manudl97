@@ -6,7 +6,7 @@
   - [Booking App for Restaurants/Museums/Theatres,etc. Created with a partner for college project.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   
 - <b>C# (.NET Desktop Applications)</b>
-  - [System designed for journalists on the Qatar worldcup 2023. Created with a partner for college project.](https://github.com/joshmadakor1/EncrypterPOC)
+  - [System designed for journalists on the Qatar worldcup 2023. Created with a partner for college project.](https://github.com/manudl97/QatarWorldcupJournalistSystem)
   
 - <b>Flutter</b>
   - [My first flutter app: Word generator with favorites page. Codelab project.](https://github.com/manudl97/MyFirstFlutterApp)
