@@ -7,6 +7,9 @@
   
 - <b>C# (.NET Desktop Applications)</b>
   - [System designed for journalists on the Qatar worldcup 2023. Created with a partner for college project.](https://github.com/manudl97/QatarWorldcupJournalistSystem)
+ 
+  - <b>CSS & HTML</b>
+  - [Landing page for a restaurant. Created for college project.]((https://github.com/manudl97/LandingPageShakeShack)
   
 - <b>Flutter</b>
   - [My first flutter app: Word generator with favorites page. Codelab project.](https://github.com/manudl97/MyFirstFlutterApp)
