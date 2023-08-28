@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Programming Projects:</h2>
 
-- <b>React</b>
-  - [Uber Eats Clone Landing Page]()
+- <b>React With Tailwind CSS</b>
+  - [Uber Eats Clone Landing Page](https://github.com/manudl97/UberEatsClone)
 
 - <b>Javascript</b>
   - [Booking App for Restaurants/Museums/Theatres,etc. Created with a partner for college project.]
