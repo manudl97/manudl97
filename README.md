@@ -25,5 +25,5 @@
 
 [<img align="left" alt="Manuela De Luca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/manuela-de-luca-051127ba/
+[linkedin]: https://linkedin.com/in/manuela-de-luca/
 
