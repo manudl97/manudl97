@@ -15,7 +15,7 @@
   - [My first flutter app: Word generator with favorites page. Codelab project.](https://github.com/manudl97/MyFirstFlutterApp)
   
 <h2>📚 Currently learning:</h2>
-    - <b>Flutter</b>
+    - <b>React</b>
   
 
 <h2> 🤳 Connect with me:</h2>
