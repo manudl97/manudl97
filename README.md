@@ -19,6 +19,8 @@
   
 <h2>📚 Currently learning:</h2>
     - <b>React</b>
+    - <b>C#</b>
+    - <b>Azure DevOps</b>
   
 
 <h2> 🤳 Connect with me:</h2>
