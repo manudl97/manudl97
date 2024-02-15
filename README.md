@@ -18,9 +18,9 @@
   - [My first flutter app: Word generator with favorites page. Codelab project.](https://github.com/manudl97/MyFirstFlutterApp)
   
 <h2>📚 Currently learning:</h2>
-    - <b>React</b>
-    - <b>C#</b>
-    - <b>Azure DevOps</b>
+    - React <br>
+    - C# </br>
+    - Azure DevOps <br>
   
 
 <h2> 🤳 Connect with me:</h2>
